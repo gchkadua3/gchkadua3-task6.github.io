@@ -11,11 +11,11 @@
 
 .box {
     position: absolute;
-    top: 50%;
+    top: 25%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -25%);
     width: 718px;
-    height: 788px;
+    height: 650px;
     background: #FFFFFF;
     border: 1px solid #F2F2F2;
     border-radius: 10px;
@@ -36,13 +36,13 @@ label {
     border: 1px solid #E5E5E5;
     border-radius: 10px;
     width: 616px;
-    height: 50px;
+    height: 30px;
     
 }
 
 .about {
     width: 616px;
-    height: 148px;
+    height: 120px;
     background: #FFFFFF;
     border: 1px solid #E5E5E5;
     border-radius: 10px;
@@ -67,7 +67,7 @@ form {
 ::placeholder {
     position: absolute;
     left: 18px;
-    top: 18px;
+    top: 4px;
     font-family: 'FiraGO';
     font-style: normal;
     font-weight: 400;
@@ -100,5 +100,4 @@ a {
     font-size: 16px;
     line-height: 19px;
     text-decoration: none;
-    color: #000000;
 }
