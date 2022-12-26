@@ -15,7 +15,6 @@
     left: 50%;
     transform: translate(-50%, -50%);
     width: 575px;
-    
     background: #FFFFFF;
     border: 1px solid #F2F2F2;
     border-radius: 10px;
@@ -29,6 +28,7 @@ label {
     font-size: 16px;
     line-height: 19px;
     display: flex;
+    padding: 5px 0px;
 }
 
 .wandh {
@@ -57,12 +57,12 @@ h1 {
     font-size: 26px;
     line-height: 31px;
     color: #000000;
-    margin-top: 30px;
+    margin-top: 20px;
     margin-left: 36px;
 }
 
 form {
-    margin-top: 15px;
+    margin-top: 10px;
     
     
 }
@@ -82,7 +82,7 @@ form {
 
 
 .dis {
-    padding: 4px 40px;
+    padding: 2px 40px;
     
 }
 
@@ -105,4 +105,5 @@ a {
     font-size: 16px;
     line-height: 19px;
     text-decoration: none;
+    color: black;
 }
