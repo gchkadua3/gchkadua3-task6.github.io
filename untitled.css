@@ -14,8 +14,8 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 718px;
-    height: 650px;
+    width: 575px;
+    
     background: #FFFFFF;
     border: 1px solid #F2F2F2;
     border-radius: 10px;
@@ -35,14 +35,16 @@ label {
     background: #FFFFFF;
     border: 1px solid #E5E5E5;
     border-radius: 10px;
-    width: 616px;
-    height: 30px;
+    width: 494px;
+    height: 40px;
+    padding: 5px 0px;
+    
     
 }
 
 .about {
-    width: 616px;
-    height: 120px;
+    width: 494px;
+    height: 148px;
     background: #FFFFFF;
     border: 1px solid #E5E5E5;
     border-radius: 10px;
@@ -56,18 +58,19 @@ h1 {
     line-height: 31px;
     color: #000000;
     margin-top: 30px;
-    margin-left: 46px;
+    margin-left: 36px;
 }
 
 form {
-    margin-left: 51px;
+    margin-top: 10px;
+    
     
 }
 
 ::placeholder {
     position: absolute;
     left: 18px;
-    top: 4px;
+    top: 8px;
     font-family: 'FiraGO';
     font-style: normal;
     font-weight: 400;
@@ -79,14 +82,16 @@ form {
 
 
 .dis {
-    margin-top: 22px;
+    padding: 4px 40px;
+    
 }
 
 button {
-    margin-top: 10px;
-    margin-left: 462px;
-    width: 205px;
-    height: 47px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    margin-left: 360px;
+    width: 175px;
+    height: 38px;
     background: #FFDD04;
     border-radius: 10px;
     border-color: transparent;
