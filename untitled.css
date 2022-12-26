@@ -37,7 +37,7 @@ label {
     border-radius: 10px;
     width: 494px;
     height: 40px;
-    padding: 5px 0px;
+    padding: 5px 20px;
     
     
 }
@@ -48,6 +48,8 @@ label {
     background: #FFFFFF;
     border: 1px solid #E5E5E5;
     border-radius: 10px;
+    padding-bottom: 110px;
+    padding-left: 15px;
 }
 
 h1 {
@@ -77,6 +79,7 @@ form {
     font-size: 16px;
     line-height: 19px;
     color: #E7E7E7;
+    
 }
 
 
